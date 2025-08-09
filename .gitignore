@@ -1,0 +1,15 @@
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Archivos de clase compilados
+*.class
+
+# Archivos de sistema
+*.log
+*.DS_Store
+Thumbs.db
